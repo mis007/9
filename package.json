@@ -1,0 +1,30 @@
+{
+  "name": "公益扶贫乡村-ai-导览系统",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react-dom": "^19.2.0",
+    "react": "^19.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  },
+  "optionalDependencies": {
+    "@motionone/dom": "^10.18.0",
+    "@barba/core": "^2.9.7",
+    "pouchdb": "^8.0.1",
+    "@opentiny/tiny-editor": "^1.0.0",
+    "@uppy/core": "^3.0.0",
+    "@uppy/dashboard": "^3.0.0",
+    "@uppy/xhr-upload": "^3.0.0"
+  }
+}

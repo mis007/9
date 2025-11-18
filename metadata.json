@@ -1,0 +1,8 @@
+{
+  "name": "公益扶贫乡村 AI 导览系统",
+  "description": "一个为公益扶贫乡村文旅数字化升级而设计的智能导览系统。提供基于位置的景点介绍、语音问答、拍摄识别和本地特产导购，旨在以低成本、易部署的方式提升游客体验，助力乡村振兴。",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
